@@ -1,0 +1,40 @@
+Basic Instructions for Lotto Max RC7 Lotto Simulator.
+
+Main Menu
+
+Option A takes you to the Winning Numbers Update Screen
+Option B gives you the Search and Print Menu
+Option C gives you a 14 to 42 wheeling menu
+Option D gives you random numbers
+Option E tells you about the program
+Option F gives you a Bar Graph Menu
+Option G gives you Special Date Bar Graphs
+Option H gives you the Number Frequency Calculator
+
+Sub Menu  B Search and Print Menu
+
+Option A prints out the entire list of winning numbers
+Option B prints out a list of winning numbers
+Option C checks a list of numbers for winning numbers by date of draw
+Option D Scans Database of winning numbers, you can enter any series of numbers here.
+Option E Prints out Frequency Calculator saved lists
+
+Sub Menu B from the above Sub Option B
+
+Option A Prints out entire list of winning numbers
+Option B Prints out a partial list of winning numbers, user selectible
+Option C goes to Search and Print Menu
+
+Escape or enter at any level brings you back one level
+Escape at main menu takes you out of the program.
+
+As for selecting tickets, the program keeps track of how much you have spent and won.
+
+Options F and G from the main menu need more work, everything else works perfectly except 
+for Option C in the Search and Print Menu now shows winning numbers in your files and 
+prints to both the screen and the disk and printer.
+
+
+Russ
+
+Enjoy !!!
